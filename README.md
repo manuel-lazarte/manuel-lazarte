@@ -45,12 +45,6 @@
 
 ---
 
-### 📊 My GitHub Stats
 
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-lazarte&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-lazarte&layout=compact&theme=tokyonight)
-
----
-
-⭐️ *"The best way to learn to code is by coding."*
+ *"The best way to learn to code is by coding."*
