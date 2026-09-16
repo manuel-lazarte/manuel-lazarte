@@ -45,11 +45,10 @@
 
 ---
 
-### 👾 ¡Destruye mis commits!
+## 👾 ¡Destruye mis commits!
 
 Usa los botones para mover la nave y dispararle a mis contribuciones:
 
 [![Readme Invaders](https://vercel.app)](https://github.com)
-
 
  *"The best way to learn to code is by coding."*
